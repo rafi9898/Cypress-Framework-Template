@@ -1,6 +1,6 @@
 {
 	"name": "cypress-framework-template",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Cypress framework starter template",
 	"main": "index.js",
 	"scripts": {
