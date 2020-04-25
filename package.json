@@ -1,6 +1,6 @@
 {
 	"name": "cypress-framework-template",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Cypress framework starter template",
 	"main": "index.js",
 	"scripts": {
@@ -9,10 +9,10 @@
 		"cy:run:chrome": "cypress run --browser chrome",
 		"cy:run:firefox": "cypress run --browser firefox",
 		"cy:run:electron": "cypress run --browser electron",
-		"cy:run-dashboard": "cypress run --record --key YOUR KEY",
+		"cy:run-dashboard": "cypress run --record --key 5e587b2c-8e19-47ad-849a-a8b800c23e25",
 		"cy:update-snapshots": "cypress run --env updateSnapshots=true"
 	},
-	"author": "Your Name",
+	"author": "Rafał Podraza",
 	"license": "ISC",
 	"dependencies": {
 		"cypress": "^4.4.1",
