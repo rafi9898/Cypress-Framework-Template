@@ -12,7 +12,7 @@
 		"cy:run-dashboard": "cypress run --record --key YOUR KEY",
 		"cy:update-snapshots": "cypress run --env updateSnapshots=true"
 	},
-	"author": "Rafał Podraza",
+	"author": "Your Name",
 	"license": "ISC",
 	"dependencies": {
 		"cypress": "^4.4.1",
